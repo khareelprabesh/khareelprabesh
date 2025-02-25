@@ -1,67 +1,89 @@
-## 🚀 Welcome to My GitHub Universe! I'm Prabesh Kharel 🌟
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
 
-![Metrics](https://metrics.lecoq.io/prabeshkharel)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&width=800&height=70&lines=AI+%7C+ML+%7C+Python+%7C+JS+%7C+Cybersecurity+Enthusiast;Passionate+Developer+%26+Innovator;Exploring+Deep+Learning+%26+Hacking;Turning+Ideas+into+Reality!)
-
----
-
-### 🌍 About Me
-- 🚀 **Tech Explorer:** AI | ML | Python | JavaScript | HTML | CSS | Linux | Cybersecurity | GitHub
-- 🔥 **Passionate Coder:** Transforming innovative ideas into real-world projects.
-- 🎯 **Lifelong Learner:** Always expanding my knowledge & experimenting with new technologies.
-- 🛡️ **Cybersecurity Enthusiast:** Exploring ethical hacking & penetration testing.
-- 🎨 **Creative Mind:** Bringing ideas to life with code and design.
-
----
-
-### 🏆 Tech Stack & Tools
-
-#### 🖥️ Programming & Scripting:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🔧 Operating Systems & Tools:
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🚀 GitHub Achievements & Stats
-
-#### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabeshkharel&theme=dark&hide_border=true)
-
-#### 📊 GitHub Stats
-![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabeshkharel&show_icons=true&theme=tokyonight)
-
-#### 🎭 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabeshkharel&layout=compact&theme=tokyonight)
-
-#### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prabeshkharel&theme=onedark&no-frame=true)
-
----
-
-### 🎶 Suggested Tracks
-> From Apple Music
-- 🎵 *Bipolar Nightmare* - Tokyo Ghoul
-- 🎵 *Mutter* - Rammstein
-
----
-
-### 🌎 Let's Connect
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabeshkharel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabeshkharel)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prabeshkharel)
-
----
-
-### 🎉 Fun Fact
-> "Success is not final, failure is not fatal: it is the courage to continue that counts!" 🚀
+          # Options
+          user: khareelprabesh
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Katmandu
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_other: yes
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: .user.website
+          plugin_projects: yes
+          plugin_projects_descriptions: yes
+          plugin_projects_limit: 4
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_stars: yes
+          plugin_stars_limit: 4
