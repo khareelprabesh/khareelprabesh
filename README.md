@@ -1,6 +1,6 @@
 ## 🚀 Welcome to My GitHub Universe! I'm Prabesh Kharel 🌟
 
-![Banner](https://user-images.githubusercontent.com/123456789/your-banner-image.gif)
+![Metrics](https://metrics.lecoq.io/prabeshkharel)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&width=800&height=70&lines=AI+%7C+ML+%7C+Python+%7C+JS+%7C+Cybersecurity+Enthusiast;Passionate+Developer+%26+Innovator;Exploring+Deep+Learning+%26+Hacking;Turning+Ideas+into+Reality!)
 
@@ -46,6 +46,13 @@
 
 #### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prabeshkharel&theme=onedark&no-frame=true)
+
+---
+
+### 🎶 Suggested Tracks
+> From Apple Music
+- 🎵 *Bipolar Nightmare* - Tokyo Ghoul
+- 🎵 *Mutter* - Rammstein
 
 ---
 
