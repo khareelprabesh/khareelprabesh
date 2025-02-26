@@ -8,31 +8,17 @@
 
 
 <h1 align="center">
-  <span style="display: inline-block; animation: wave 2s infinite;">👋</span>
-  <span style="background: linear-gradient(45deg, #00ff87, #60efff); background-clip: text; -webkit-background-clip: text; color: transparent; animation: gradient 3s ease infinite;">Hello! Welcome to my GitHub profile. I'm Prabesh Kharel!</span>
-  <span style="display: inline-block; animation: spin 4s linear infinite;">✨</span>
+  <img src="https://em-content.zobj.net/thumbs/120/twitter/322/waving-hand_1f44b.gif" width="40"> 
+  Hello! Welcome to my GitHub profile. I'm Prabesh Kharel!
+  <img src="https://em-content.zobj.net/thumbs/120/twitter/322/sparkles_2728.gif" width="30">
 </h1>
-<style>
-  @keyframes wave {
-    0%, 100% { transform: rotate(0deg); }
-    25% { transform: rotate(20deg); }
-    75% { transform: rotate(-15deg); }
-  }
-  
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
 
-  @keyframes spin {
-    100% { transform: rotate(360deg); }
-  }
+# Hello! ✨ Welcome! 🚀
+# Hello! :sparkles: Welcome! :rocket:
 
-  h1 span {
-    background-size: 200% auto;
-  }
-</style>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello!+Welcome+👋;I'm+Prabesh+Kharel+💻" alt="Typing animation" />
+</h1>
 
 
 
