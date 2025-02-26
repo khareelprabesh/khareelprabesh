@@ -33,7 +33,7 @@
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">Namaste 🙏 I'm Prabesh Kharel</h1>
+<h1 align="center">Hello!👋 Welcome to my github profile. I'm Prabesh Kharel!</h1>
 
 <h4 align="left">🌟Iam a student of Bachelor of Computer Science. I have a interest in AI/ML, Data Science. I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
 
