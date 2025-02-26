@@ -97,7 +97,7 @@
 <!--Experence and experencing-->
 <h3 align="center">🔆 Work'ed and Wor'king</h3>
 <div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/Jkhareelprabesh/khareelprabesh/blob/main/hom1_rounded.png" alt="taylors logo" width="350" style="border-radius: 10px;">
+    <img src="https://github.com/khareelprabesh/khareelprabesh/blob/main/hom1_rounded.png" alt="taylors logo" width="350" style="border-radius: 10px;">
 </div>
 
 
