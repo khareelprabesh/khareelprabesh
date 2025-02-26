@@ -76,11 +76,14 @@
 <br/>
 
 
-
-
-<h3 align="center"> 📌 Pinned Repositories </h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khareelprabesh&repo=Nepal-DoTM-License-Management-System)](https://github.com/khareelprabesh/Nepal-DoTM-License-Management-System)
-
+<!-- top repo and teck stack-->
+<div align="center">
+  <h3>⭐️ Top Repositories</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/khareelprabesh/Nepal-DoTM-License-Management-System">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=khareelprabesh&repo=Nepal-DoTM-License-Management-System&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    </a>
+</div>
 
 
 <div align="center">
