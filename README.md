@@ -46,6 +46,15 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khareelprabesh&show_icons=true&theme=default" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khareelprabesh&theme=default" />
 </div>
+<h3 align="center">⚡ Github Status</h3>
+<br>
+<div align="center">
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=khareelprabesh&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khareelprabesh&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
+<br/><br/>
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabesh-kharel-993815315/)
