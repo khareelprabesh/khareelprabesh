@@ -60,6 +60,19 @@ href="https://www.youtube.com/watch?
   v=7E3xekt0QFc&list=PL_rVkgNzUKFjMphd6Uvb4JhGHQF8QipdL&pp=gAQB" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
 
+<!-- lang-->
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,pwsh" /><br>
+</div>
+
+<br/>
+
 
 
 
