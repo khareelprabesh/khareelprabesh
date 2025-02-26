@@ -80,10 +80,8 @@
 
   <a href="mailto:prabeshkharel95@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/prabesh-kharel-993815315/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-  <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
-<a href="https://www.youtube.com/watch?v=7E3xekt0QFc&list=PL_rVkgNzUKFjMphd6Uvb4JhGHQF8QipdL" target="_blank">
+<a href="https://https://www.youtube.com/feed/playlist_aggregation/👀😽💗?v=7E3xekt0QFc&list=PL_rVkgNzUKFjMphd6Uvb4JhGHQF8QipdL" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
-  <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
 
 
   
