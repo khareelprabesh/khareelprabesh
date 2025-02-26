@@ -20,7 +20,7 @@
 
 
 
-<h3 align="center">Computer Science Student | Artificial Intelligence/ML Enthusiast | Data Science Learner</h3>
+<h3 align="center"> Artificial Intelligence/Machine Learning Enthusiast | Data Science Learner</h3>
 <h4 align="center">🌟Iam a student of Bachelor of Computer Science. I have a interest in AI/ML, Data Science. I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
 
 <div align="center">
