@@ -15,7 +15,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008080&center=true&vCenter=true&width=435&lines=Hello!+🪄+Welcome to my Profile.+;I'm+Lucifer!+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Hello!+🪄+Welcome to my Profile.+;I'm+Lucifer!+🚀" alt="Typing animation" />
 </h1>
 
 
