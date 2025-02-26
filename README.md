@@ -13,8 +13,6 @@
   <img src="https://em-content.zobj.net/thumbs/120/twitter/322/sparkles_2728.gif" width="30">
 </h1>
 
-# Hello! ✨ Welcome! 🚀
-# Hello! :sparkles: Welcome! :rocket:
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello!+Welcome+👋;I'm+Prabesh+Kharel+💻" alt="Typing animation" />
