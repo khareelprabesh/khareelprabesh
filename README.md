@@ -19,7 +19,6 @@
 </h1>
 
 
-
 <h3 align="center"> Artificial Intelligence/Machine Learning Enthusiast | Data Science Learner</h3>
 <h4 align="center">🌟Iam a student of Bachelor of Computer Science. I have a interest in AI/ML, Data Science. I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
 
@@ -77,7 +76,7 @@
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khareelprabesh&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<br/><br/>
+<br/>
 
 <h3 align="center"> 🌐 Connect With Me </h3>
  <div align="center"> 
