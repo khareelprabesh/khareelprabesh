@@ -15,9 +15,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello!+👋+Welcome..+;I'm+Prabesh+Kharel+🚀✨" alt="Typing animation" />
-
- <span style="display: inline-block; animation: spin 4s linear infinite;">✨</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hello!+👋+Welcome..+;I'm+Prabesh+Kharel+🚀✨" alt="Typing animation" />
 </h1>
 
 
@@ -39,13 +37,13 @@
 <h3 align="center">💫 About Me </h3>
 <div align="center">
   
-- 🌱 Currently learning Artificial Intelligence, Machine Learning algorithms and Data Analysis
-- 👨💻 Exploring Python libraries for Data Science (NumPy, Pandas, Matplotlib)
-- 🎓 Pursuing Bachelor's in Computer Science at [Taylors University]
-- 🔭 I worked on HTML, CSS, Python, Javascript, Programming Language and Linux
-- 💬 Ask me about Python programming, Linux and Data Structures
-- ✨ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Data Analysis, Animation, BlockChain development
-- ⚡ Fun fact: I love combining tech with environmental sustainability projects
+ 🌱 Currently learning Artificial Intelligence, Machine Learning algorithms and Data Analysis
+ 👨💻 Exploring Python libraries for Data Science (NumPy, Pandas, Matplotlib)
+ 🎓 Pursuing Bachelor's in Computer Science at [Taylors University]
+ 🔭 I worked on HTML, CSS, Python, Javascript, Programming Language and Linux
+ 💬 Ask me about Python programming, Linux and Data Structures
+ ✨ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Data Analysis, Animation, BlockChain development
+ ⚡ Fun fact: I love combining tech with environmental sustainability projects
 
 </div>
 
