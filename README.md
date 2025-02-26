@@ -79,8 +79,7 @@
 
 
 <h3 align="center"> 📌 Pinned Repositories </h3>
-<div align="center"
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khareelprabesh&repo=Nepal-DoTM-License-Management-System)](https://github.com/khareelprabesh/Nepal-DoTM-License-Management-System)
+<div align="center"[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khareelprabesh&repo=Nepal-DoTM-License-Management-System)](https://github.com/khareelprabesh/Nepal-DoTM-License-Management-System)
 </div>
 
 
