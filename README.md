@@ -88,7 +88,6 @@
 <a href="https://www.youtube.com/watch?
   v=7E3xekt0QFc&list=PL_rVkgNzUKFjMphd6Uvb4JhGHQF8QipdL&pp=gAQB" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
-   
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prabeshkharel__/?hl=en)
  </div>
 
