@@ -53,7 +53,6 @@
 <br/><br/>
 
 ### 🌐 Connect With Me
-<h3 align="center" 🌐 Connect With Me </h3>
 <div align="center"> 
  <a href="mailto:prabeshkharel95@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
@@ -79,7 +78,7 @@
 
 
 
-### 📌 Pinned Repositories
+<h3 align="center"> ### 📌 Pinned Repositories </h3>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khareelprabesh&repo=Nepal-DoTM-License-Management-System)](https://github.com/khareelprabesh/Nepal-DoTM-License-Management-System)
 
 
