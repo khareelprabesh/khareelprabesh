@@ -53,12 +53,13 @@
 <br/><br/>
 
 ### 🌐 Connect With Me
+<div align="center"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabesh-kharel-993815315/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabeshkharel95@gmail.com)
 <a
 href="https://www.youtube.com/watch?
   v=7E3xekt0QFc&list=PL_rVkgNzUKFjMphd6Uvb4JhGHQF8QipdL&pp=gAQB" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
+  <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a> </div>
 
 <!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
