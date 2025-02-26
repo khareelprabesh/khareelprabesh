@@ -42,10 +42,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khareelprabesh&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khareelprabesh&theme=default" />
-</div>
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
