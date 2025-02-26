@@ -21,7 +21,9 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/khareelprabesh/khareelprabesh/blob/main/coding.gif">
 
-### 💫 About Me
+<h3 align="center">💫 About Me </h3>
+<div align="center">
+  
 - 🌱 Currently learning Artificial Intelligence, Machine Learning algorithms and Data Analysis
 - 👨💻 Exploring Python libraries for Data Science (NumPy, Pandas, Matplotlib)
 - 🎓 Pursuing Bachelor's in Computer Science at [Taylors University]
@@ -29,6 +31,8 @@
 - 💬 Ask me about Python programming, Linux and Data Structures
 - ✨ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Data Analysis, Animation, BlockChain development
 - ⚡ Fun fact: I love combining tech with environmental sustainability projects
+</div>
+
 
 <h3 align="center">🛠 Tech Stack </h3>
 <div align="center">
