@@ -6,16 +6,18 @@
 </div>
 
 
-
+<!--
 <h1 align="center">
   <img src="https://em-content.zobj.net/thumbs/120/twitter/322/waving-hand_1f44b.gif" width="40"> 
   Hello! 👋 . I'm Prabesh Kharel!
   <img src="https://em-content.zobj.net/thumbs/120/twitter/322/sparkles_2728.gif" width="30">
-</h1>
+</h1> -->
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello!+👋+Welcome..+;I'm+Prabesh+Kharel+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello!+👋+Welcome..+;I'm+Prabesh+Kharel+🚀✨" alt="Typing animation" />
+</h1>
+ <span style="display: inline-block; animation: spin 4s linear infinite;">✨</span>
 </h1>
 
 
