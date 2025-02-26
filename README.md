@@ -31,6 +31,7 @@
 - 💬 Ask me about Python programming, Linux and Data Structures
 - ✨ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Data Analysis, Animation, BlockChain development
 - ⚡ Fun fact: I love combining tech with environmental sustainability projects
+
 </div>
 
 
