@@ -12,8 +12,6 @@
   <span style="background: linear-gradient(45deg, #00ff87, #60efff); background-clip: text; -webkit-background-clip: text; color: transparent; animation: gradient 3s ease infinite;">Hello! Welcome to my GitHub profile. I'm Prabesh Kharel!</span>
   <span style="display: inline-block; animation: spin 4s linear infinite;">✨</span>
 </h1>
-
-<!-- Add this CSS in your profile README (works on GitHub) -->
 <style>
   @keyframes wave {
     0%, 100% { transform: rotate(0deg); }
