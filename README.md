@@ -38,17 +38,14 @@
   
  🌱 Currently learning Artificial Intelligence, Machine Learning algorithms and Data Analysis
  
- 👨💻 Exploring Python libraries for Data Science (NumPy, Pandas, Matplotlib)
- 
  🎓 Pursuing Bachelor's in Computer Science at [Taylors University]
  
- 🔭 I worked on HTML, CSS, Python, Javascript, Programming Language and Linux
+ 🔭 I worked on Python, Javascript, Programming Language and Linux
  
- 💬 Ask me about Python programming, Linux and Data Structures
+ 💬 Ask me about Python programming, Linux, Java
  
  ✨ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Data Analysis, Animation, BlockChain development
  
- ⚡ Fun fact: I love combining tech with environmental sustainability projects
 
 </div>
 
