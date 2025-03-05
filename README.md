@@ -20,7 +20,7 @@
 
 
 <h3 align="center"> Artificial Intelligence/Machine Learning Enthusiast | Data Science Learner</h3>
-<h4 align="center">🌟Iam a student of Bachelor of Computer Science. I have a interest in AI/ML, Data Science. I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
+<h4 align="center">🌟I'm a student of Bachelor of Computer Science. I have a interest in AI/ML, Data Science. I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
 
 <div align="center">
   <a href="https://github.com/khareelprabesh">
