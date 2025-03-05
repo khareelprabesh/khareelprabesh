@@ -44,7 +44,7 @@
  
  💬 Ask me about Python programming, Linux, Java
  
- ✨ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Data Analysis, Animation, BlockChain development
+ ✨ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Animation
  
 
 </div>
