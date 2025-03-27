@@ -40,7 +40,7 @@
  
  🎓 Pursuing Bachelor's in Computer Science at [Taylors University]
  
- 🔭 I worked on Python, Javascript, Programming Language and Linux
+ 🔭 I worked on C, Python, Javascript Programming Language and Linux
  
  💬 Ask me about Python programming, Linux, Java
  
